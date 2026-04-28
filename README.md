@@ -1,6 +1,5 @@
-INTERNSHIP TRACKER
+📌 Internship Tracker – Stay Organized, Stay Ahead
 
-✨ Overview
 Applying to internships can get messy with multiple deadlines and statuses.  
 **InternHub** simplifies this by providing a centralized dashboard to track everything in one place.
 
